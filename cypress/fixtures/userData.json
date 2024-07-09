@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Moosa Shaik",
+        "age": "div[data-value='Under 18'][role='radio']",
+        "comment1": "Selected Under 18 radio button",
+        "chooseAoption": "div[data-value='No'][role='option']",
+        "comment2": "Selected option No"
+
+    },
+
+    {
+        "name": "Kavya",
+        "age": "div[data-value='18 or above'][role='radio']",
+        "comment1": "Selected 18 or above radio button",
+        "chooseAoption": "div[data-value='No'][role='option']",
+        "comment2": "Selected option No"
+
+    },
+
+    {
+        "name": "Anil",
+        "age": "div[data-value='18 or above'][role='radio']",
+        "comment1": "Selected 18 or above radio button",
+        "chooseAoption": "div[data-value='Yes'][role='option']",
+        "comment2": "Selected option Yes"
+
+    },
+
+    {
+        "name": "Renuka",
+        "age": "div[data-value='Under 18'][role='radio']",
+        "comment1": "Selected Under 18 radio button",
+        "chooseAoption": "div[data-value='No'][role='option']",
+        "comment2": "Selected option No"
+
+    },
+
+    {
+        "name": "Tejas",
+        "age": "div[data-value='18 or above'][role='radio']",
+        "comment1": "Selected 18 or above radio button",
+        "chooseAoption": "div[data-value='Yes'][role='option']",
+        "comment2": "Selected option Yes"
+
+    },
+
+    {
+        "name": "Ruchita",
+        "age": "div[data-value='Under 18'][role='radio']",
+        "comment1": "Selected Under 18 radio button",
+        "chooseAoption": "div[data-value='No'][role='option']",
+        "comment2": "Selected option No"
+
+    }
+
+
+
+]
